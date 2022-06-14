@@ -12,5 +12,6 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=hian-stafford&show_icons=true&theme=vision-friendly-dark" alt="hian-stafford's stats"/>
 </p>
 
-![Snake animation](https://github.com/jordanvieira/jordanvieira/blob/output/github-contribution-grid-snake.svg)
+
+   <!--![Snake animation](https://github.com/Hian-Stafford/Hian-Stafford/blob/output/github-contribution-grid-snake.svg)--!>
 <br><br>
