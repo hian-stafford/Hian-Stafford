@@ -13,5 +13,5 @@
 </p>
 
 
-   <!--![Snake animation](https://github.com/Hian-Stafford/Hian-Stafford/blob/output/github-contribution-grid-snake.svg)-->
+   ![Snake animation](https://github.com/Hian-Stafford/Hian-Stafford/blob/output/github-contribution-grid-snake.svg)
 <br><br>
