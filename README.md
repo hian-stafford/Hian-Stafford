@@ -9,9 +9,9 @@
 
 <p align="left">
 <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&langs_count=8&theme=vision-friendly-dark" alt="hian-stafford's most languages"/>
-          <br>
+<br>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=hian-stafford&show_icons=true&theme=vision-friendly-dark" alt="hian-stafford's stats"/>
-
 </p>
 
+![Snake animation](https://github.com/jordanvieira/jordanvieira/blob/output/github-contribution-grid-snake.svg)
 <br><br>
