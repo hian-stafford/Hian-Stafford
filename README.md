@@ -9,7 +9,7 @@
           
 ## 📚 &nbsp;Aprendizado
 <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />                               <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />          
-<img alling="center" height="60" width="70" src= "https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" />
+<img alling="center" height="60" width="70" src= "https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />
           
 ## 📫 &nbsp;Contatos
 <a href="[https://www.linkedin.com/in/seu-usuário-linkedln-aqui](https://www.linkedin.com/in/hian-stafford-565465179/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
