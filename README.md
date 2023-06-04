@@ -5,7 +5,7 @@
         <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
          <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
         <img alling="center" height="60" width="70" src="https://github.com/matplotlib/matplotlib/blob/master/lib/matplotlib/mpl-data/images/matplotlib.svg" />
-         
+         <img alling="center" height="60" width="70" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
         
           
 ## 📚 &nbsp;Aprendizado
