@@ -5,7 +5,7 @@
         
           
 ## 📚 &nbsp;Aprendizado
-<img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />                <img alling="center" height="60" width="70" src= "https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />               <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />          
+<img alling="center" height="60" width="70" src= "https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />                  <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />                               <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />          
 
           
 ## 📫 &nbsp;Contatos
