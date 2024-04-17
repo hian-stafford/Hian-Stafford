@@ -18,9 +18,7 @@
 
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hian-stafford&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </p>
-
-   ![Snake animation](https://github.com/hian-stafford/Hian-Stafford/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jordanvieira/jordanvieira/blob/output/github-contribution-grid-snake.svg)
 <br><br>
