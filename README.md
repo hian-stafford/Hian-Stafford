@@ -21,5 +21,4 @@
 
 </p>
 
-![](https://raw.githubusercontent.com/hian-stafford/hian-stafford/output/github-contribution-grid-snake.svg)
 
