@@ -21,4 +21,5 @@
 
 </p>
 
-![Snake animation](https://github.com/Hian-Stafford/Hian-Stafford/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/hian-stafford/Hian-Stafford/output/github-contribution-grid-snake.svg)
+
