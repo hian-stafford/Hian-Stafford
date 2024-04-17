@@ -21,5 +21,5 @@
 
 </p>
 
-![](https://raw.githubusercontent.com/hian-stafford/Hian-Stafford/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/hian-stafford/hian-stafford/output/github-contribution-grid-snake.svg)
 
