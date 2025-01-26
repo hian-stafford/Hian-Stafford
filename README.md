@@ -1,28 +1,54 @@
-<h2> Olá, meu nome é Hian Stafford</h2>
+# 👋 Bem-vindo ao meu perfil no GitHub!  
+## Sou Hian Stafford, Engenheiro de Software e Cientista de Dados 🚀  
 
-## 🛠 &nbsp;Pontos fortes                                                                                                                                      
-<img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />                               <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />                       <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />                                           <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>                              <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />                                                                                                 <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" />                                                                                                            <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />        <img alling="center" height="60" width="70" src= "https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" />         <img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" />        <img alling="center" height="60" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" />        
-            <img alling="center" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" />
-          
-        
-          
-            
-          
-## 📚 &nbsp;Aprendizado
-<img alling="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />          
+Apaixonado por tecnologia, dados, Inteligência Artificial e soluções criativas para problemas complexos.  
+Busco constantemente aprimorar minhas habilidades e explorar novas ferramentas.  
+Este espaço é dedicado aos meus projetos, estudos e compartilhamento de conhecimento.  
 
-          
-## 📫 &nbsp;Contatos
-<a href="https://www.linkedin.com/in/hian-stafford-565465179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href ="hian.correa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/hian_stafford/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+---
+## 🔥 Projetos em Destaque  
+- [Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Uma aplicação que gera uma retrospectiva personalizada do Spotify, destacando minhas músicas e artistas mais ouvidos no ano.  
+- [Detecção de Fraude em Cartões de Crédito](https://github.com/hian-stafford/deteccao_fraude_credito): Um modelo de machine learning para identificar transações fraudulentas em dados de cartões de crédito.  
+---
 
+## 🛠️ Habilidades Principais  
+Aqui estão algumas ferramentas e tecnologias que utilizo:  
+<div align="center">
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" />
+    <img height="60" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit-Learn" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" />
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" />
+</div>  
 
-## ⚙️ &nbsp;GitHub Analytics
+---
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&layout=compact&langs_count=7&theme=dracula"/>
+## 📘 Aprendizados Atuais  
+Atualmente, estou aprimorando minhas habilidades em:  
+<div align="center">
+    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" />
+</div>
 
-</p>
+---
 
+## 📊 GitHub Analytics  
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&layout=compact&langs_count=7&theme=dracula" alt="Estatísticas de Linguagens" />
+</div>
 
+---
+
+## 📫 Entre em Contato  
+Vamos nos conectar!  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hian-stafford-565465179/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hian.correa@gmail.com)  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hian_stafford/)  
+
+---
+
+🌟 Obrigado por visitar meu perfil! Fique à vontade para explorar e contribuir.  
