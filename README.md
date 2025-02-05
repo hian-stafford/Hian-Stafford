@@ -8,6 +8,7 @@ Este espaço é dedicado aos meus projetos, estudos e compartilhamento de conhec
 ---
 ## 🔥 Projetos em Destaque  
 - [Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Uma aplicação que gera uma retrospectiva personalizada do Spotify, destacando minhas músicas e artistas mais ouvidos no ano.
+- [Classificação de Imagens CIFAR-10](https://github.com/hian-stafford/classificacao_cifar-10): Comparação entre TensorFlow e PyTorch para classificação de imagens do CIFAR-10, incluindo pré-processamento, treinamento e análise de desempenho.
 - [Análise e Previsão de Demanda em Hospitais](https://github.com/hian-stafford/readmissao_hospitalar): Aplicação de machine learning para prever a demanda hospitalar com base em dados históricos de admissões, utilizando modelos como Regressão Logística, Random Forest, Árvore de Decisão e MLP.
 - [Detecção de Fraude em Cartões de Crédito](https://github.com/hian-stafford/deteccao_fraude_credito): Um modelo de machine learning para identificar transações fraudulentas em dados de cartões de crédito.
 - [Análise de Sentimentos no Twitter](https://github.com/hian-stafford/analise_sentimentos_twitter): Uma análise utilizando processamento de linguagem natural (NLP) para classificar os sentimentos expressos em tweets.
