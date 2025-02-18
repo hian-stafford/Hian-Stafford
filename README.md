@@ -1,9 +1,9 @@
 # 👋 Bem-vindo ao meu perfil no GitHub!  
 ## Sou Hian Stafford, Engenheiro de Software e Cientista de Dados 🚀  
 
-Apaixonado por tecnologia, dados, Inteligência Artificial e soluções criativas para problemas complexos.  
+Este espaço é dedicado aos meus projetos, estudos e compartilhamento de conhecimento. 
+Apaixonado por Tecnologia, Dados, Inteligência Artificial e soluções criativas para problemas complexos.  
 Busco constantemente aprimorar minhas habilidades e explorar novas ferramentas.  
-Este espaço é dedicado aos meus projetos, estudos e compartilhamento de conhecimento.  
 
 ---
 ## 🔥 Projetos em Destaque  
