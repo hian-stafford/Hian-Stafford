@@ -1,23 +1,21 @@
 # 👋 Bem-vindo ao meu perfil no GitHub!  
-## Sou Hian Stafford, Engenheiro de Software e Cientista de Dados 🚀  
+## 🚀 Hian Stafford | Engenheiro de Software & Cientista de Dados
 
-Este espaço é dedicado aos meus projetos, estudos e compartilhamento de conhecimento. 
+Olá! Sou Hian Stafford, um profissional com uma paixão central: **utilizar a robustez da Engenharia de Software para construir soluções inteligentes em Inteligência Artificial e Análise de Dados.** Acredito que uma base sólida em desenvolvimento é essencial para criar modelos de IA eficientes, escaláveis e com impacto real.
 
-Apaixonado por Tecnologia, Dados, Inteligência Artificial e soluções criativas para problemas complexos.  
-Busco constantemente aprimorar minhas habilidades e explorar novas ferramentas.  
+Neste espaço, você encontrará projetos que refletem essa minha abordagem integrada, desde a concepção e desenvolvimento de pipelines de dados até a implementação e otimização de modelos de machine learning. Aqui compartilho tanto o código quanto os aprendizados da minha jornada contínua na exploração de novas tecnologias e na busca por soluções criativas para problemas complexos.
 
 ---
-## 🔥 Projetos em Destaque  
-- [Geração de Imagens com GANs](https://github.com/hian-stafford/GAN_Fashion_MNIST): Este projeto implementa uma Rede Generativa Adversarial (GAN) utilizando TensorFlow e Keras, com o objetivo de gerar imagens realistas inspiradas no conjunto de dados Fashion MNIST. O projeto é uma aplicação direta do conceito original de GANs proposto por Ian Goodfellow, simulando uma competição entre duas redes neurais: o gerador (Generator) e o discriminador (Discriminator).
-- [Geração de Imagens com VAE](https://github.com/hian-stafford/projeto_VAE_moda): Este projeto apresenta a aplicação de Autoencoders Variacionais (VAE) na base de dados Fashion MNIST, com foco na geração e reconstrução de imagens de artigos de moda. Combinando redes neurais convolucionais e a poderosa técnica de reparametrização, este modelo é capaz de reconstruir e criar roupas e acessórios do zero – tudo sem supervisão direta.
-- [Decisões Políticas nos EUA de 1984](https://github.com/hian-stafford/decisao_politica_eua): Este projeto utiliza redes neurais artificiais para prever o partido político de congressistas dos Estados Unidos com base em seus votos em diferentes pautas legislativas. Os dados são baseados nos votos de 1984, um período em que a polarização política não era tão acentuada como nos dias atuais. Ainda assim, o modelo consegue obter uma acurácia superior a 94%, demonstrando que os padrões de votação são indicadores fortes da filiação partidária. Para isso, utilizamos Keras para construir um modelo de deep learning e o Scikit-Learn para realizar a avaliação do modelo através de validação cruzada.
-- [Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Uma aplicação que gera uma retrospectiva personalizada do Spotify, destacando minhas músicas e artistas mais ouvidos no ano.
-- [Sistema de Recomendação de Livros](https://github.com/hian-stafford/recomendacao_livros): Este projeto tem como objetivo a construção de um Sistema de Recomendação de Livros, utilizando técnicas de Aprendizado Não Supervisionado e agrupamento de dados. O sistema sugere livros para os usuários com base nas escolhas e avaliações de leitura de outras pessoas com interesses semelhantes.
-- [Classificação de Imagens CIFAR-10](https://github.com/hian-stafford/classificacao_cifar-10): Comparação entre TensorFlow e PyTorch para classificação de imagens do CIFAR-10, incluindo pré-processamento, treinamento e análise de desempenho.
-- [Análise de Casos de Recursos Humanos](https://github.com/hian-stafford/caso_de_rh): Este projeto tem como objetivo analisar um conjunto de dados contendo informações detalhadas sobre os funcionários de uma empresa, incluindo sua formação educacional, histórico profissional, dados demográficos e fatores relacionados ao emprego. O conjunto de dados foi anonimizado para garantir a privacidade dos colaboradores, ao mesmo tempo que oferece insights valiosos sobre a força de trabalho.
-- [Teste de Hipótese - Análise Estatística Avançada](https://github.com/hian-stafford/teste_hipoteses): Este repositório contém um notebook Jupyter dedicado à implementação e análise de testes estatísticos, fundamentais para a tomada de decisão baseada em dados. Ele cobre testes paramétricos e não paramétricos, aplicáveis a diferentes distribuições amostrais. Os testes estatísticos estão organizados de acordo com a distribuição da amostra e a natureza dos grupos comparados.
-- [Detecção de Fraude em Cartões de Crédito](https://github.com/hian-stafford/deteccao_fraude_credito): Um modelo de machine learning para identificar transações fraudulentas em dados de cartões de crédito.
-- [Estudo de Regressão Linear](https://github.com/hian-stafford/estudo_regressao_linear): Exploração detalhada dos fundamentos e implementação da regressão linear, incluindo:  
+## 🏆 Projetos em Destaque 🔥
+- [🤖 Transformers para Geração de Texto com GPT-2](https://github.com/hian-stafford/Tranformers_gpt2): Este projeto demonstra o uso de modelos Transformers (especificamente o GPT-2) para geração de textos contextualizados. Implementado no Google Colab, explora componentes-chave como tokenização, positional encoding, self-attention e geração de sequências, utilizando a biblioteca Hugging Face Transformers.
+- [📷 Geração de Imagens com GANs](https://github.com/hian-stafford/GAN_Fashion_MNIST): Este projeto implementa uma Rede Generativa Adversarial (GAN) utilizando TensorFlow e Keras, com o objetivo de gerar imagens realistas inspiradas no conjunto de dados Fashion MNIST. O projeto é uma aplicação direta do conceito original de GANs proposto por Ian Goodfellow, simulando uma competição entre duas redes neurais: o gerador (Generator) e o discriminador (Discriminator).
+- [📷 Geração de Imagens com VAE](https://github.com/hian-stafford/projeto_VAE_moda): Este projeto apresenta a aplicação de Autoencoders Variacionais (VAE) na base de dados Fashion MNIST, com foco na geração e reconstrução de imagens de artigos de moda. Combinando redes neurais convolucionais e a poderosa técnica de reparametrização, este modelo é capaz de reconstruir e criar roupas e acessórios do zero – tudo sem supervisão direta.
+- [📖 Sistema de Recomendação de Livros](https://github.com/hian-stafford/recomendacao_livros): Este projeto tem como objetivo a construção de um Sistema de Recomendação de Livros, utilizando técnicas de Aprendizado Não Supervisionado e agrupamento de dados. O sistema sugere livros para os usuários com base nas escolhas e avaliações de leitura de outras pessoas com interesses semelhantes.
+- [🗳️ Decisões Políticas nos EUA de 1984](https://github.com/hian-stafford/decisao_politica_eua): Este projeto utiliza redes neurais artificiais para prever o partido político de congressistas dos Estados Unidos com base em seus votos em diferentes pautas legislativas. Os dados são baseados nos votos de 1984, um período em que a polarização política não era tão acentuada como nos dias atuais. Ainda assim, o modelo consegue obter uma acurácia superior a 94%, demonstrando que os padrões de votação são indicadores fortes da filiação partidária. Para isso, utilizamos Keras para construir um modelo de deep learning e o Scikit-Learn para realizar a avaliação do modelo através de validação cruzada.
+- [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Uma aplicação que gera uma retrospectiva personalizada do Spotify, destacando minhas músicas e artistas mais ouvidos no ano.
+- [💾 Classificação de Imagens CIFAR-10](https://github.com/hian-stafford/classificacao_cifar-10): Comparação entre TensorFlow e PyTorch para classificação de imagens do CIFAR-10, incluindo pré-processamento, treinamento e análise de desempenho.
+- [📊 Teste de Hipótese - Análise Estatística Avançada](https://github.com/hian-stafford/teste_hipoteses): Este repositório contém um notebook Jupyter dedicado à implementação e análise de testes estatísticos, fundamentais para a tomada de decisão baseada em dados. Ele cobre testes paramétricos e não paramétricos, aplicáveis a diferentes distribuições amostrais. Os testes estatísticos estão organizados de acordo com a distribuição da amostra e a natureza dos grupos comparados.
+- [📈 Estudo de Regressão Linear](https://github.com/hian-stafford/estudo_regressao_linear): Exploração detalhada dos fundamentos e implementação da regressão linear, incluindo:  
   - Aplicação manual e com as bibliotecas Statsmodels e Scikit-Learn.  
   - Cálculo de métricas como R² e RMSE.  
   - Compreensão prática e aprofundada da análise de dados e modelagem preditiva.
@@ -49,6 +47,7 @@ Atualmente, estou aprimorando minhas habilidades em:
 ---
 
 ## 📊 GitHub Analytics  
+
 <div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&layout=compact&langs_count=7&theme=dracula" alt="Estatísticas de Linguagens" />
 </div>
@@ -64,3 +63,8 @@ Vamos nos conectar!
 ---
 
 🌟 Obrigado por visitar meu perfil! Fique à vontade para explorar e contribuir.  
+```text
+  /\_/\  
+ ( -.- ) 
+  > ^ < 
+```
