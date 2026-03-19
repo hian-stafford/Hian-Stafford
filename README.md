@@ -8,7 +8,7 @@
 
 <br/>
 Engenharia de Software é o alicerce. IA e Dados são o objetivo. Cada projeto aqui foi construído com atenção à arquitetura, documentação clara e código limpo — porque uma boa solução não vale nada se ninguém consegue entender, reproduzir ou evoluir.
-Aqui você encontra projetos concretos, decisões técnicas documentadas e uma visão prática de como Engenharia de Software e IA se complementam quando bem aplicadas juntas. Os projetos em destaque refletem o melhor do repositório, mas há muito mais para explorar na [aba de repositórios](https://github.com/hian-stafford?tab=repositories)..
+Aqui você encontra projetos concretos, decisões técnicas documentadas e uma visão prática de como Engenharia de Software e IA se complementam quando bem aplicadas juntas. Os projetos em destaque refletem o melhor do repositório, mas há muito mais para explorar na <a href="https://github.com/hian-stafford?tab=repositories">aba de repositórios</a>.
 
 ---
 
