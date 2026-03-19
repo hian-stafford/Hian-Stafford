@@ -1,6 +1,5 @@
-# Bem-vindo ao meu perfil no GitHub!  
 <div align="center">
-  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7B2FBE&center=true&vCenter=true&width=800&lines=Hian+Stafford;Engenharia+de+Software+%7C+IA+%26+Dados" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=99999&color=7B2FBE&center=true&vCenter=true&width=800&lines=Hian+Stafford+%7C+Engenharia+de+Software+%7C+IA+%26+Dados" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,9 +7,8 @@
 </div>
 
 <br/>
-
 Engenharia de Software é o alicerce. IA e Dados são o objetivo. Cada projeto aqui foi construído com atenção à arquitetura, documentação clara e código limpo — porque uma boa solução não vale nada se ninguém consegue entender, reproduzir ou evoluir.
-Aqui você encontra projetos concretos, decisões técnicas documentadas e uma visão prática de como Engenharia de Software e IA se complementam quando bem aplicadas juntas.
+Aqui você encontra projetos concretos, decisões técnicas documentadas e uma visão prática de como Engenharia de Software e IA se complementam quando bem aplicadas juntas. Os projetos em destaque refletem o melhor do repositório, mas há muito mais para explorar na [aba de repositórios](https://github.com/hian-stafford?tab=repositories)..
 
 ---
 
