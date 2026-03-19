@@ -1,8 +1,6 @@
 # Bem-vindo ao meu perfil no GitHub!  
-## Hian Stafford | Engenharia de Software aplicada à Inteligência Artificial e Dados
-
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=180&section=header&text=Hian%20Stafford&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engenharia%20de%20Software%20%7C%20IA%20%26%20Dados&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7B2FBE&center=true&vCenter=true&width=800&lines=Hian+Stafford;Engenharia+de+Software+%7C+IA+%26+Dados" alt="Typing SVG" />
 </div>
 
 <div align="center">
