@@ -1,72 +1,92 @@
-# 👋 Bem-vindo ao meu perfil no GitHub!  
-## 🚀 Hian Stafford | Engenheiro de Software & Cientista de Dados
+# Bem-vindo ao meu perfil no GitHub!  
+## Hian Stafford | Engenharia de Software aplicada à Inteligência Artificial e Dados
 
-Olá! Sou Hian Stafford, um profissional com uma paixão central: **utilizar a robustez da Engenharia de Software para construir soluções inteligentes em Inteligência Artificial e Análise de Dados.** Acredito que uma base sólida em desenvolvimento é essencial para criar modelos de IA eficientes, escaláveis e com impacto real.
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=180&section=header&text=Hian%20Stafford&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Engenharia%20de%20Software%20%7C%20IA%20%26%20Dados&descAlignY=58&descSize=18" />
+</div>
 
-Neste espaço, você encontrará projetos que refletem essa minha abordagem integrada, desde a concepção e desenvolvimento de pipelines de dados até a implementação e otimização de modelos de machine learning. Aqui compartilho tanto o código quanto os aprendizados da minha jornada contínua na exploração de novas tecnologias e na busca por soluções criativas para problemas complexos.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hian-stafford&color=7B2FBE&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Visitas ao perfil" />
+</div>
+
+<br/>
+
+Engenharia de Software é o alicerce. IA e Dados são o objetivo. Cada projeto aqui foi construído com atenção à arquitetura, documentação clara e código limpo — porque uma boa solução não vale nada se ninguém consegue entender, reproduzir ou evoluir.
+Aqui você encontra projetos concretos, decisões técnicas documentadas e uma visão prática de como Engenharia de Software e IA se complementam quando bem aplicadas juntas.
 
 ---
+
 ## 🏆 Projetos em Destaque 🔥
-- [🩺 Classificação de Massas Mamográficas com Machine Learning](https://github.com/hian-stafford/projeto_massas_mamograficas): Este projeto foi desenvolvido com o objetivo de aplicar e comparar diferentes algoritmos de aprendizado supervisionado no dataset Mammographic Masses. O problema tratado é de classificação binária: prever se uma massa mamária é benigna ou maligna, a partir de atributos clínicos e radiológicos.
-- [🕵️‍♂️ Gerador de Imagens com DCGAN no Dataset CelebA](https://github.com/hian-stafford/celeba_GAN): Este projeto usa inteligência artificial para **criar rostos humanos que não existem de verdade**. Através de uma Rede Generativa Adversarial Profunda (DCGAN), o sistema aprende a partir de milhares de fotos de pessoas reais, até conseguir **gerar novas imagens que parecem reais**, mas foram criadas do zero. O treinamento foi feito com o conjunto de dados CelebA, conhecido por conter imagens de celebridades, permitindo que a máquina **aprenda os padrões e características de um rosto humano**. O resultado é uma demonstração de como a IA pode **imitar e criar imagens realistas**, usando apenas números aleatórios como ponto de partida.
-- [🤖 Transformers para Geração de Texto com GPT-2](https://github.com/hian-stafford/Tranformers_gpt2): Este projeto demonstra o uso de modelos Transformers (especificamente o GPT-2) para geração de textos contextualizados. Implementado no Google Colab, explora componentes-chave como tokenização, positional encoding, self-attention e geração de sequências, utilizando a biblioteca Hugging Face Transformers.
-- [📷 Geração de Imagens com GANs](https://github.com/hian-stafford/GAN_Fashion_MNIST): Este projeto implementa uma Rede Generativa Adversarial (GAN) utilizando TensorFlow e Keras, com o objetivo de gerar imagens realistas inspiradas no conjunto de dados Fashion MNIST. O projeto é uma aplicação direta do conceito original de GANs proposto por Ian Goodfellow, simulando uma competição entre duas redes neurais: o gerador (Generator) e o discriminador (Discriminator).
-- [📷 Geração de Imagens com VAE](https://github.com/hian-stafford/projeto_VAE_moda): Este projeto apresenta a aplicação de Autoencoders Variacionais (VAE) na base de dados Fashion MNIST, com foco na geração e reconstrução de imagens de artigos de moda. Combinando redes neurais convolucionais e a poderosa técnica de reparametrização, este modelo é capaz de reconstruir e criar roupas e acessórios do zero – tudo sem supervisão direta.
-- [📖 Sistema de Recomendação de Livros](https://github.com/hian-stafford/recomendacao_livros): Este projeto tem como objetivo a construção de um Sistema de Recomendação de Livros, utilizando técnicas de Aprendizado Não Supervisionado e agrupamento de dados. O sistema sugere livros para os usuários com base nas escolhas e avaliações de leitura de outras pessoas com interesses semelhantes.
-- [🗳️ Decisões Políticas nos EUA de 1984](https://github.com/hian-stafford/decisao_politica_eua): Este projeto utiliza redes neurais artificiais para prever o partido político de congressistas dos Estados Unidos com base em seus votos em diferentes pautas legislativas. Os dados são baseados nos votos de 1984, um período em que a polarização política não era tão acentuada como nos dias atuais. Ainda assim, o modelo consegue obter uma acurácia superior a 94%, demonstrando que os padrões de votação são indicadores fortes da filiação partidária. Para isso, utilizamos Keras para construir um modelo de deep learning e o Scikit-Learn para realizar a avaliação do modelo através de validação cruzada.
-- [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Uma aplicação que gera uma retrospectiva personalizada do Spotify, destacando minhas músicas e artistas mais ouvidos no ano.
-- [💾 Classificação de Imagens CIFAR-10](https://github.com/hian-stafford/classificacao_cifar-10): Comparação entre TensorFlow e PyTorch para classificação de imagens do CIFAR-10, incluindo pré-processamento, treinamento e análise de desempenho.
-- [📊 Teste de Hipótese - Análise Estatística Avançada](https://github.com/hian-stafford/teste_hipoteses): Este repositório contém um notebook Jupyter dedicado à implementação e análise de testes estatísticos, fundamentais para a tomada de decisão baseada em dados. Ele cobre testes paramétricos e não paramétricos, aplicáveis a diferentes distribuições amostrais. Os testes estatísticos estão organizados de acordo com a distribuição da amostra e a natureza dos grupos comparados.
-- [📈 Estudo de Regressão Linear](https://github.com/hian-stafford/estudo_regressao_linear): Exploração detalhada dos fundamentos e implementação da regressão linear, incluindo:  
-  - Aplicação manual e com as bibliotecas Statsmodels e Scikit-Learn.  
-  - Cálculo de métricas como R² e RMSE.  
-  - Compreensão prática e aprofundada da análise de dados e modelagem preditiva.
----
 
-## 🛠️ Habilidades Principais  
-Aqui estão algumas ferramentas e tecnologias que utilizo:  
-<div align="center">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" />
-    <img height="60" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" alt="Scikit-Learn" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" />
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" />
-</div>  
+- [🕵️‍♂️ Geração de Rostos com DCGAN](https://github.com/hian-stafford/celeba_GAN): Geração de rostos humanos sintéticos com DCGAN treinada no dataset CelebA.
+- [📷 Geração de Imagens com GAN](https://github.com/hian-stafford/GAN_Fashion_MNIST): Implementação da arquitetura GAN original (Goodfellow) com TensorFlow e Keras no dataset Fashion MNIST.
+- [📷 Geração de Imagens com VAE](https://github.com/hian-stafford/projeto_VAE_moda): Reconstrução e geração de imagens de moda com Autoencoders Variacionais e redes convolucionais no Fashion MNIST.
+- [🤖 Geração de Texto com GPT-2](https://github.com/hian-stafford/Tranformers_gpt2): Exploração de Transformers (GPT-2) para geração de texto contextualizado, cobrindo tokenização, positional encoding e self-attention com Hugging Face.
+- [🗳️ Classificação Política com Redes Neurais](https://github.com/hian-stafford/decisao_politica_eua): Previsão de filiação partidária de congressistas dos EUA (1984) com deep learning — acurácia superior a 94%.
+- [🩺 Classificação de Massas Mamográficas](https://github.com/hian-stafford/projeto_massas_mamograficas): Classificação binária (benigna/maligna) de massas mamárias comparando algoritmos de aprendizado supervisionado no dataset Mammographic Masses.
+- [💾 Classificação de Imagens CIFAR-10](https://github.com/hian-stafford/classificacao_cifar-10): Comparação prática entre TensorFlow e PyTorch para classificação de imagens do CIFAR-10.
+- [📖 Sistema de Recomendação de Livros](https://github.com/hian-stafford/recomendacao_livros): Recomendação baseada em filtragem colaborativa com aprendizado não supervisionado e agrupamento de dados.
+- [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Aplicação que gera uma retrospectiva personalizada com músicas e artistas mais ouvidos via API do Spotify.
+- [📊 Testes de Hipótese](https://github.com/hian-stafford/teste_hipoteses): Implementação e análise de testes paramétricos e não paramétricos organizados por distribuição amostral.
+- [📈 Regressão Linear](https://github.com/hian-stafford/estudo_regressao_linear): Estudo aprofundado de regressão linear com implementação manual, Statsmodels e Scikit-Learn, incluindo R² e RMSE.
 
 ---
 
-## 📘 Aprendizados Atuais  
-Atualmente, estou aprimorando minhas habilidades em:  
+## 🛠️ Habilidades Principais
+
 <div align="center">
-    <img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" />
+  <table border="0" cellspacing="0" cellpadding="8">
+    <tr>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" /><br/>VSCode</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" /><br/>Python</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" /><br/>Jupyter</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" /><br/>Pandas</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" /><br/>NumPy</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" /><br/>Matplotlib</td>
+    </tr>
+    <tr>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="GitHub" /><br/>GitHub</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" /><br/>Scikit-Learn</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" /><br/>TensorFlow</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" /><br/>PyTorch</td>
+      <td align="center"><img height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" /><br/>Kaggle</td>
+      <td align="center"><img height="60" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" /><br/>Hugging Face</td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📘 Aprendizados Atuais
+
+**Large Language Models (LLMs)** — fine-tuning, prompt engineering, RAG e integração de modelos de linguagem em aplicações reais.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&layout=compact&langs_count=7&theme=dracula" alt="Estatísticas de Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hian-stafford&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&layout=compact&langs_count=7&theme=dracula" alt="Linguagens" />
+  <br/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hian-stafford&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📫 Entre em Contato  
-Vamos nos conectar!  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hian-stafford-565465179/)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hian.correa@gmail.com)  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hian_stafford/)  
+## 📫 Entre em Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hian-stafford-565465179/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hian.correa@gmail.com)
+
+</div>
 
 ---
 
-🌟 Obrigado por visitar meu perfil! Fique à vontade para explorar e contribuir.  
-```text
-  /\_/\  
- ( -.- ) 
-  > ^ < 
-```
+<div align="center">
+  <i>Explore os projetos, abre as issues, contribui. O código está aqui para isso.</i>
+  <br/><br/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer" />
+</div>
