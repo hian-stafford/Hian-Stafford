@@ -12,7 +12,7 @@ Aqui você encontra projetos concretos, decisões técnicas documentadas e uma v
 
 ---
 
-## 🏆 Projetos em Destaque 🔥
+## 🏆 Projetos de Machine Learning
 
 - [🕵️‍♂️ Geração de Rostos com DCGAN](https://github.com/hian-stafford/celeba_GAN): Geração de rostos humanos sintéticos com DCGAN treinada no dataset CelebA.
 - [📷 Geração de Imagens com GAN](https://github.com/hian-stafford/GAN_Fashion_MNIST): Implementação da arquitetura GAN original (Goodfellow) com TensorFlow e Keras no dataset Fashion MNIST.
@@ -22,9 +22,20 @@ Aqui você encontra projetos concretos, decisões técnicas documentadas e uma v
 - [🩺 Classificação de Massas Mamográficas](https://github.com/hian-stafford/projeto_massas_mamograficas): Classificação binária (benigna/maligna) de massas mamárias comparando algoritmos de aprendizado supervisionado no dataset Mammographic Masses.
 - [💾 Classificação de Imagens CIFAR-10](https://github.com/hian-stafford/classificacao_cifar-10): Comparação prática entre TensorFlow e PyTorch para classificação de imagens do CIFAR-10.
 - [📖 Sistema de Recomendação de Livros](https://github.com/hian-stafford/recomendacao_livros): Recomendação baseada em filtragem colaborativa com aprendizado não supervisionado e agrupamento de dados.
-- [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Aplicação que gera uma retrospectiva personalizada com músicas e artistas mais ouvidos via API do Spotify.
 - [📊 Testes de Hipótese](https://github.com/hian-stafford/teste_hipoteses): Implementação e análise de testes paramétricos e não paramétricos organizados por distribuição amostral.
 - [📈 Regressão Linear](https://github.com/hian-stafford/estudo_regressao_linear): Estudo aprofundado de regressão linear com implementação manual, Statsmodels e Scikit-Learn, incluindo R² e RMSE.
+
+---
+
+## 📱 Projetos de App
+
+- [🎬 Stafford Stream Search](https://github.com/hian-stafford/stafford-stream-search-public): Busque filmes e séries e descubra onde assistir, em plataformas legais ou outras formas de acesso, tudo num lugar só.
+
+---
+
+## 🎯 Hobbies
+
+- [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Aplicação que gera uma retrospectiva personalizada com músicas e artistas mais ouvidos via API do Spotify.
 
 ---
 
@@ -62,10 +73,10 @@ Aqui você encontra projetos concretos, decisões técnicas documentadas e uma v
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hian-stafford&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&layout=compact&langs_count=7&theme=dracula" alt="Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hian-stafford&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hian-stafford&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" alt="Linguagens" />
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hian-stafford&theme=dracula" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=hian-stafford&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
