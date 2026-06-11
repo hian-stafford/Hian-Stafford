@@ -27,12 +27,6 @@ Aqui você encontra projetos concretos, decisões técnicas documentadas e uma v
 
 ---
 
-## 📱 Projetos de App
-
-- [🎬 Stafford Stream Search](https://github.com/hian-stafford/stafford-stream-search-public): Busque filmes e séries e descubra onde assistir, em plataformas legais ou outras formas de acesso, tudo num lugar só.
-
----
-
 ## 🎯 Hobbies
 
 - [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Aplicação que gera uma retrospectiva personalizada com músicas e artistas mais ouvidos via API do Spotify.
