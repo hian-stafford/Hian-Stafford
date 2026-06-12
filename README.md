@@ -25,14 +25,6 @@ Aqui você encontra projetos concretos, decisões técnicas documentadas e uma v
 - [📊 Testes de Hipótese](https://github.com/hian-stafford/teste_hipoteses): Implementação e análise de testes paramétricos e não paramétricos organizados por distribuição amostral.
 - [📈 Regressão Linear](https://github.com/hian-stafford/estudo_regressao_linear): Estudo aprofundado de regressão linear com implementação manual, Statsmodels e Scikit-Learn, incluindo R² e RMSE.
 
----
-
-## 🎯 Hobbies
-
-- [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Aplicação que gera uma retrospectiva personalizada com músicas e artistas mais ouvidos via API do Spotify.
-
----
-
 ## 🛠️ Habilidades Principais
 
 <div align="center">
@@ -83,6 +75,10 @@ Aqui você encontra projetos concretos, decisões técnicas documentadas e uma v
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hian.correa@gmail.com)
 
 </div>
+
+## 🎯 Hobbies
+
+- [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Análise de dados que recria minha retrospectiva pessoal a partir do histórico real de streaming (export do Spotify), revelando músicas e artistas mais ouvidos e as discrepâncias com o Wrapped oficial.
 
 ---
 
