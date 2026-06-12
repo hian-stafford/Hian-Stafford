@@ -79,7 +79,7 @@ Aqui você encontra projetos concretos, decisões técnicas documentadas e uma v
 ## 🎯 Hobbies
 
 - [🎶 Retrospectiva Spotify 2024](https://github.com/hian-stafford/retrospectiva_spotify_2024): Análise de dados que recria minha retrospectiva pessoal a partir do histórico real de streaming (export do Spotify), revelando músicas e artistas mais ouvidos e as discrepâncias com o Wrapped oficial.
-
+- [🎧 Retrospectiva Spotify 2025](https://github.com/hian-stafford/retrospectiva_spotify_2025): Upgrade da retrospectiva — do ranking ao "DNA musical". Analisa o ano inteiro de streaming real para revelar não só o que ouço, mas quem sou musicalmente: fases, rotina e apegos.
 ---
 
 <div align="center">
